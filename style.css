@@ -1,0 +1,39 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-width:10px;
+   background-color:white;
+   border-style:ridge;
+   border-color: darkviolet;
+}
+#heading
+{
+    font-family: 'Yeon Sung';
+    color: red;
+    background-color: cyan;
+    width: 300px;
+}
+#body
+{
+    background-image: url("birthday.jpg");
+    background-size: 100%;
+}
+.message_div
+{
+    background-image: linear-gradient(to right top, #09FF11, #F5F80F, #00FFD0);
+    width: 60%;
+}
+#end
+{
+    font-size: 100px;
+    color: turquoise;
+}
+#last
+{
+    background-image: url("balloon-colors.gif");
+}
